@@ -10,7 +10,7 @@ Contains all 9 projects (Beginner to Advanced) from my Data Science and Analytic
 [![](https://img.shields.io/github/languages/top/shil5/sparks_data_science.svg?style=plastic)](https://github.com/shil5/sparks_data_science)
 [![](https://img.shields.io/github/Follow/shil5.svg?style=plastic)](https://github.com/Kshil5)
 
-<br><br><br>
+<br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 > Problem statement :
